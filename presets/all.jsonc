@@ -60,9 +60,10 @@
         "publicip",
         {
             "type": "localip",
-            "showIpv6": true,
+            "showIpv6": false,
             "showMac": true
         },
+        "gatewayip"
         "wifi",
         "datetime",
         "locale",
